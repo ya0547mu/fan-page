@@ -1,5 +1,6 @@
-# validation-lab
+# fan-page
 
-Validation is very important and will help you identify errors in your work. All of the assignments that you submit must be valid HTML. Invalid HTML will result in a significantly lower score on the assignment.  Make sure that you validate all of you work before turning it in.  
+This will be a multi-part assignment in which you will create a fan page for something you enjoy: a movie, game, band, or even your favorite restaurant.  You can choose the topic, but you must make sure that your page also meet the requirements found in each part of the assignment.
 
-- [Assignment Details](https://github.com/htc-ccis1301/main/assignments/validation-lab-v1.html)
+- [Part 1](https://github.com/htc-ccis1301/main/assignments/fan-page/fan-page-pt1-v1.html)
+
