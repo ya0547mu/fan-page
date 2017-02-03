@@ -1,5 +1,32 @@
-body{background-color:skyblue}
-body{color:white}
-h3{color: black}
-.text{color:orange}
-.headername{color:black}
+body {  background-color: skyblue; 
+        color: white;
+        font-family: serif;
+}
+body a { font-size: large;
+         font-weight: bold;
+         text-decoration: none;
+}
+body div ul li a { font-size: inherit;
+                    font-weight: inherit;
+                    text-decoration: underline;
+}
+h1   {  font-family: sans-serif;
+        text-transform: uppercase;
+}
+h3  {    color: black;
+        font-family: sans-serif;
+}
+.text { color: orange;
+}
+.headername { color: black;
+}
+footer { font-size: .5em;
+         font-style: italic
+}
+footer a { font-size: inherit;
+           font-weight: bold;
+            text-decoration: underline;
+}
+ul { list-style-type: disc;
+}
+div { background-image: url(Pictures/EDMTunes-EF.jpg); height: 400px; width: auto;}
